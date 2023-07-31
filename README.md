@@ -25,6 +25,12 @@ https://github.com/Diogomc/calculator-pure-java/assets/88741278/aa9e4cca-679e-4b
   Atualmente, tenho estudado bastante a POO do Java. Porém, ainda não possuo conhecimentos suficientes para montar um projeto de uma calculadora com uma interface gráfica com o Java. Mas, futuramente irei atualizar esse projeto com elementos do Spring Boot, a fim de melhorar a qualidade do projeto e buscar maneiras de aplicar uma interface gráfica, gerando uma melhor experiência para o usuário.
 </p>
 <br>
+<h2 align="center">Ferramentas utilizadas</h2>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+
+</p>
 <br>
 <p align="center">
 <img class="#badges" loading="lazy" src="http://img.shields.io/static/v1?label=license&message=%20DMC&color=GREEN&style=for-the-badge"/>
